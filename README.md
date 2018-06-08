@@ -4,6 +4,7 @@ A curated list of awesome resources and websites about the Bible
 ## Bibles
 ### Online Bibles
 * [biblegateway.com](http://biblegateway.com/)
+* [kingjamesbibleonline.org](https://www.kingjamesbibleonline.org/)
 
 ### Apps
 * [bible.com](https://www.bible.com)
