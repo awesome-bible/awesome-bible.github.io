@@ -8,7 +8,7 @@ A curated list of awesome resources and websites about the Bible
 
 ### Apps
 * [bible.com](https://www.bible.com)
-
+* [fortunes-bible](https://github.com/anicholson/fortunes-bible) - the Bible in UNIX `fortune` format
 
 ## Radio stations
 * [k-love.com](http://k-love.com/)
