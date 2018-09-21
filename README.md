@@ -14,26 +14,26 @@ A curated list of awesome resources and websites about the Bible and topics rela
 * [k-love.com](http://k-love.com/)
 
 ## News
-* [https://www.christianitytoday.com](Christianity Today)
+* [Christianity Today](https://www.christianitytoday.com)
 ### German
-* [http://www.idea.de](Idea Spektrum)
-* [https://chrismon.evangelisch.de](Chrismon)
-* [http://pro-medienmagazin.de](Christlicher Medienverbund Kep / Pro Medienmagazin)
+* [Idea Spektrum](http://www.idea.de)
+* [Chrismon](https://chrismon.evangelisch.de)
+* [Christlicher Medienverbund Kep / Pro Medienmagazin](http://pro-medienmagazin.de)
 
 ## Sharing about faith with others
 * [yesheis.com](https://yesheis.com/)
 
 ## Conferences
-* [http://iccm.org](International Conference on Computing & Mission in many places around the world)
+* [International Conference on Computing & Mission in many places around the world](http://iccm.org)
 ### German
-* [https://gottdigital.de](Digitale Pioniere für eine bessere Zukunft)
+* [Digitale Pioniere für eine bessere Zukunft](https://gottdigital.de)
 
 ## Apps
-* [https://www.spf.io](spf.io - Affordable real time captions and translations through AI-human collaboration.)
-* [https://www.ceaselessprayer.com](Ceaseless - Personal prayer for everyone on earth.)
+* [spf.io - Affordable real time captions and translations through AI-human collaboration](https://www.spf.io])
+* [Ceaseless - Personal prayer for everyone on earth](https://www.ceaselessprayer.com)
 
 ## Software
-* [https://www.churchdesk.com](Churchdesk - Church management software)
+* [Churchdesk - Church management software](https://www.churchdesk.com)
 
 ## Technologies miscelaneous
-* [https://www.theotech.org](Technology Entrepreneurship for the Gospel)
+* [Technology Entrepreneurship for the Gospel](https://www.theotech.org)
