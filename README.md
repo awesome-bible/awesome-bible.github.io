@@ -1,6 +1,6 @@
 # awesome-bible 
 A curated list of awesome resources and websites about the Bible and topics related to it
-Feel free to add content via the github-project (https://github.com/awesome-bible/awesome-bible) or via e-mail(<a href="&#x6d;&#x61;&#x69;&#x6c;&#x74;&#x6f;&#x3a;af&#x6f;&#x6c;l%6f&#x77;&#x65;&#x72;o%66&#x63;&#x68;&#x72;&#x69;&#x73;&#x74;@w&#x65;%62.%64e" title="af&#x6f;ll&#x6f;wer&#x6f;f&#x63;hr&#x69;&#x73;t@web.de">af&#x6f;ll&#x6f;wer&#x6f;f&#x63;hr&#x69;&#x73;t@web.de</a>)
+Feel free to add content via the github-project (<a href="https://github.com/awesome-bible/awesome-bible">https://github.com/awesome-bible/awesome-bible</a>) or via e-mail(<a href="&#x6d;&#x61;&#x69;&#x6c;&#x74;&#x6f;&#x3a;af&#x6f;&#x6c;l%6f&#x77;&#x65;&#x72;o%66&#x63;&#x68;&#x72;&#x69;&#x73;&#x74;@w&#x65;%62.%64e" title="af&#x6f;ll&#x6f;wer&#x6f;f&#x63;hr&#x69;&#x73;t@web.de">af&#x6f;ll&#x6f;wer&#x6f;f&#x63;hr&#x69;&#x73;t@web.de</a>)
 
 ## Bibles
 ### Online Bibles
@@ -8,6 +8,8 @@ Feel free to add content via the github-project (https://github.com/awesome-bibl
 * [kingjamesbibleonline.org](https://www.kingjamesbibleonline.org/)
 ### Apps
 * [bible.com](https://www.bible.com)
+### Software
+* [logos.com](https://logos.com)
 
 
 ## Websites
