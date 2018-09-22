@@ -50,6 +50,7 @@ Feel free to add content via the github-project (<a href="https://github.com/awe
 ### German
 * [Internationale Vereinigung Christlicher Geschäftsleute und Führungskräfte](https://www.ivcg.org)
 * [Bibellesebund](https://www.bibellesebund.de)
+* [Visiomedia](https://visiomedia.org)
 
 ## Software
 ### Church management software
