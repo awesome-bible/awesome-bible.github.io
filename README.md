@@ -17,6 +17,11 @@ Feel free to add content via the github-project (<a href="https://github.com/awe
 * [Cielito Lindo Productions - shows the creation through photography](https://cielitolindo.de)
 ### German
 * [das bibelprojekt - Explains the bible trough videos](https://dasbibelprojekt.de/)
+* [Ohne Limit geliebt](https://ohnelimitgeliebt.de)
+* [wholehearted](https://wholehearted.de/)
+* [wortzentriert](http://www.wortzentriert.at/)
+* [wordproject - Reading the bible in one year](http://www.wordproject.net)
+* [verwurzelt - Website about bible reading](http://www.verwurzelt-projekt.net/)
 
 
 ## Apps
@@ -40,10 +45,16 @@ Feel free to add content via the github-project (<a href="https://github.com/awe
 * [Christlicher Medienverbund Kep / Pro Medienmagazin](http://pro-medienmagazin.de)
 
 
+## Magazines
+### German
+* [Faszination Bibel](http://www.faszination-bibel.net)
+
 ## Conferences
 * [International Conference on Computing & Mission in many places around the world](http://iccm.org)
 ### German
 * [Digitale Pioniere für eine bessere Zukunft](https://gottdigital.de)
+* [Inspiration Nights](https://inspirationnights.de)
+* [jesus im fokus](http://www.jesusimfokus.de/)
 
 
 ## Christian groups
@@ -51,6 +62,9 @@ Feel free to add content via the github-project (<a href="https://github.com/awe
 * [Internationale Vereinigung Christlicher Geschäftsleute und Führungskräfte](https://www.ivcg.org)
 * [Bibellesebund](https://www.bibellesebund.de)
 * [Visiomedia](https://visiomedia.org)
+* [Netzwerk M](https://netzwerk-m.de)
+* [Wertestarter](https://www.wertestarter.de/)
+* [Christliche Jugendpflege e. V](https://www.cj-info.de/)
 
 ## Software
 ### Church management software
