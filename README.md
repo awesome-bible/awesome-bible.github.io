@@ -73,5 +73,8 @@ Feel free to add content via the github-project (<a href="https://github.com/awe
 * [ChurchTools](https://www.church.tools/en/home)
 * [Optigem](https://optigem.com/)
 
+### Live streaming
+* [Omnia app](https://omnia-app.org)
+
 ## Technologies miscelaneous
 * [Technology Entrepreneurship for the Gospel](https://www.theotech.org)
