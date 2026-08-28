@@ -15,6 +15,8 @@ Feel free to add content via the github-project (<a href="https://github.com/awe
 ## Websites
 * [yesheis - Sharing faith with others](https://yesheis.com/)
 * [Cielito Lindo Productions - shows the creation through photography](https://cielitolindo.de)
+* [Atlas Biblica - a knowledge graph of the bible](https://atlasbiblica.com)
+
 ### German
 * [das bibelprojekt - Explains the bible trough videos](https://dasbibelprojekt.de/)
 * [Ohne Limit geliebt](https://ohnelimitgeliebt.de)
