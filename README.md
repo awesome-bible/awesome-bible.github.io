@@ -11,6 +11,7 @@ Feel free to add content via the github-project (<a href="https://github.com/awe
 ### Software
 * [logos.com](https://logos.com)
 * [firstverse.org - Search the Bible in plain words, English and Spanish](https://firstverse.org/)
+* [bibleverses.church - Search KJV, compare public-domain translations, and read chapter context](https://bibleverses.church/)
 
 ## Websites
 * [yesheis - Sharing faith with others](https://yesheis.com/)
