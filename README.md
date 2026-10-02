@@ -15,6 +15,7 @@ Feel free to add content via the github-project (<a href="https://github.com/awe
 ## Websites
 * [yesheis - Sharing faith with others](https://yesheis.com/)
 * [Cielito Lindo Productions - shows the creation through photography](https://cielitolindo.de)
+* [TrustBible - Ask an honest Bible question and read the cited verses for yourself, with a per-verse count you can check](https://trustbible.org/)
 ### German
 * [das bibelprojekt - Explains the bible trough videos](https://dasbibelprojekt.de/)
 * [Ohne Limit geliebt](https://ohnelimitgeliebt.de)
