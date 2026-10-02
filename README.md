@@ -2,15 +2,18 @@
 A curated list of awesome resources and websites about the Bible and topics related to it
 Feel free to add content via the github-project (<a href="https://github.com/awesome-bible/awesome-bible">https://github.com/awesome-bible/awesome-bible</a>) or via e-mail(<a href="&#x6d;&#x61;&#x69;&#x6c;&#x74;&#x6f;&#x3a;af&#x6f;&#x6c;l%6f&#x77;&#x65;&#x72;o%66&#x63;&#x68;&#x72;&#x69;&#x73;&#x74;@w&#x65;%62.%64e" title="af&#x6f;ll&#x6f;wer&#x6f;f&#x63;hr&#x69;&#x73;t@web.de">af&#x6f;ll&#x6f;wer&#x6f;f&#x63;hr&#x69;&#x73;t@web.de</a>)
 
+
 ## Bibles
 ### Online Bibles
 * [biblegateway.com](http://biblegateway.com/)
 * [kingjamesbibleonline.org](https://www.kingjamesbibleonline.org/)
 ### Apps
 * [bible.com](https://www.bible.com)
+* [FaithCentral](https://faithcentral.app) - Free Bible study app for Android and web: multiple translations, offline audio Bible, Strong's concordance, commentaries, verse notes, prayer requests, and community.
 ### Software
 * [logos.com](https://logos.com)
 * [firstverse.org - Search the Bible in plain words, English and Spanish](https://firstverse.org/)
+
 
 ## Websites
 * [yesheis - Sharing faith with others](https://yesheis.com/)
@@ -24,6 +27,8 @@ Feel free to add content via the github-project (<a href="https://github.com/awe
 * [verwurzelt - Website about bible reading](http://www.verwurzelt-projekt.net/)
 
 
+
+
 ## Apps
 * [spf.io - Affordable real time captions and translations through AI-human collaboration](https://www.spf.io)
 * [Ceaseless - Personal prayer for everyone on earth](https://www.ceaselessprayer.com)
@@ -33,8 +38,12 @@ Feel free to add content via the github-project (<a href="https://github.com/awe
 * [bibletunes - podcasts about the bible](http://bibletunes.de)
 
 
+
+
 ## Radio stations
 * [k-love.com](http://k-love.com/)
+
+
 
 
 ## News
@@ -45,9 +54,12 @@ Feel free to add content via the github-project (<a href="https://github.com/awe
 * [Christlicher Medienverbund Kep / Pro Medienmagazin](http://pro-medienmagazin.de)
 
 
+
+
 ## Magazines
 ### German
 * [Faszination Bibel](http://www.faszination-bibel.net)
+
 
 ## Conferences
 * [International Conference on Computing & Mission in many places around the world](http://iccm.org)
@@ -55,6 +67,8 @@ Feel free to add content via the github-project (<a href="https://github.com/awe
 * [Digitale Pioniere für eine bessere Zukunft](https://gottdigital.de)
 * [Inspiration Nights](https://inspirationnights.de)
 * [jesus im fokus](http://www.jesusimfokus.de/)
+
+
 
 
 ## Christian groups
