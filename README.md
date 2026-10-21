@@ -4,6 +4,7 @@ Feel free to add content via the github-project (<a href="https://github.com/awe
 
 ## Bibles
 ### Online Bibles
+* [First Light Community - Explore biblical paintings and the Bible stories behind them, with art guides and Bible reading in English and Chinese](https://vvchen1981-del.github.io/first-light-community/?lang=en#read/JHN/1)
 * [biblegateway.com](http://biblegateway.com/)
 * [kingjamesbibleonline.org](https://www.kingjamesbibleonline.org/)
 ### Apps
