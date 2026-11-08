@@ -6,6 +6,7 @@ Feel free to add content via the github-project (<a href="https://github.com/awe
 ### Online Bibles
 * [biblegateway.com](http://biblegateway.com/)
 * [kingjamesbibleonline.org](https://www.kingjamesbibleonline.org/)
+* [officialkingjamesbible.com](https://officialkingjamesbible.com/)
 ### Apps
 * [bible.com](https://www.bible.com)
 ### Software
